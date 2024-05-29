@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/madeleinemin8/static/css/main.3ccd1fa1.css",
-    "main.js": "/madeleinemin8/static/js/main.3b798ea0.js",
-    "static/media/RobotoMono-Regular.ttf": "/madeleinemin8/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
-    "static/media/me.png": "/madeleinemin8/static/media/me.3f4ca85413dcde6fa8a6.png",
-    "static/media/Remnant-Regular.ttf": "/madeleinemin8/static/media/Remnant-Regular.8933aa4962744e2b3044.ttf",
-    "static/media/mushrooms.png": "/madeleinemin8/static/media/mushrooms.a83de68a00badf48c4e7.png",
-    "static/media/desktopIcon5.png": "/madeleinemin8/static/media/desktopIcon5.16d2796303e48c2878fe.png",
-    "static/media/desktopIcon1.png": "/madeleinemin8/static/media/desktopIcon1.672ff57c4ff863219ab9.png",
-    "static/media/desktopIcon4.png": "/madeleinemin8/static/media/desktopIcon4.fcdaaf2457c3213dffcf.png",
-    "static/media/desktopIcon2.png": "/madeleinemin8/static/media/desktopIcon2.626751f91e2c3fba06a4.png",
-    "static/media/desktopIcon3.png": "/madeleinemin8/static/media/desktopIcon3.b1c42bfdf9b1d70f4972.png",
-    "static/media/desktopIcon6.png": "/madeleinemin8/static/media/desktopIcon6.d0fefbdac2b438a06237.png",
-    "index.html": "/madeleinemin8/index.html",
-    "main.3ccd1fa1.css.map": "/madeleinemin8/static/css/main.3ccd1fa1.css.map",
-    "main.3b798ea0.js.map": "/madeleinemin8/static/js/main.3b798ea0.js.map"
+    "main.css": "/static/css/main.838c2b64.css",
+    "main.js": "/static/js/main.11f5aad9.js",
+    "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/me.png": "/static/media/me.3f4ca85413dcde6fa8a6.png",
+    "static/media/Remnant-Regular.ttf": "/static/media/Remnant-Regular.8933aa4962744e2b3044.ttf",
+    "static/media/mushrooms.png": "/static/media/mushrooms.a83de68a00badf48c4e7.png",
+    "static/media/desktopIcon5.png": "/static/media/desktopIcon5.16d2796303e48c2878fe.png",
+    "static/media/desktopIcon1.png": "/static/media/desktopIcon1.672ff57c4ff863219ab9.png",
+    "static/media/desktopIcon4.png": "/static/media/desktopIcon4.fcdaaf2457c3213dffcf.png",
+    "static/media/desktopIcon2.png": "/static/media/desktopIcon2.626751f91e2c3fba06a4.png",
+    "static/media/desktopIcon3.png": "/static/media/desktopIcon3.b1c42bfdf9b1d70f4972.png",
+    "static/media/desktopIcon6.png": "/static/media/desktopIcon6.d0fefbdac2b438a06237.png",
+    "index.html": "/index.html",
+    "main.838c2b64.css.map": "/static/css/main.838c2b64.css.map",
+    "main.11f5aad9.js.map": "/static/js/main.11f5aad9.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ccd1fa1.css",
-    "static/js/main.3b798ea0.js"
+    "static/css/main.838c2b64.css",
+    "static/js/main.11f5aad9.js"
   ]
 }
